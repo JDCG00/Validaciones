@@ -28,6 +28,7 @@ function validar(evento){
        // evento.preventDefault()
     }
     comprobarDNI()
+    
     //evento.preventDefault()
     //return false
 }
